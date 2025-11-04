@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/dsp-devx-support-portal-97700-96768/dsp_devx_support_pioneer_frontend"
+}
